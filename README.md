@@ -1,12 +1,8 @@
-# Prework Study Guide
+# Prework Study Guide Webpage
 
 ## Description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-This project was to quickly go over the basics of JavaScript, CSS, HTML, as well as navigating and deploying to GitHub for version control of branches.
+This project was to quickly go over the basics of JavaScript, CSS, HTML, as well as navigating and deploying to GitHub for version control of branches. 
 
 
 ## Installation
